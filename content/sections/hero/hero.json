@@ -1,0 +1,22 @@
+{
+  "intro": "Franco Castagna",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Software Engineer",
+  "subtitle": {
+    "prefix": "Engineered for security, crafted for scalability:",
+    "highlight": "Building robust solutions",
+    "suffix": " in a connected world."
+},
+  "description": "A passionate Software Developer with expertise in Data Security and a Master's student at the University of Buenos Aires.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
