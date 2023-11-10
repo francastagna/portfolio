@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://github.com/francastagna/portfolio.git",
     "title": "Franco Castagna",
     "titleTemplate": "%s",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Welcome to my Portfolio" },
     "navigation": {
       "header": [
         { "label": "Blog", "url": "/blog" },
