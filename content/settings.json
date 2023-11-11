@@ -11,13 +11,13 @@
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/francastagna",
-      "medium": "https://medium.com/@homero_franco",
+      "medium": "https://fncastagna.medium.com/",
       "linkedin": "https://www.linkedin.com/in/franco-castagna/",
       "mail": "fcastagna@dc.uba.ar"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Welcome to my Portfolio" },
+    "logo": { "text": "My Portfolio" },
     "navigation": {
       "header": [
         { "label": "Blog", "url": "/blog" },
